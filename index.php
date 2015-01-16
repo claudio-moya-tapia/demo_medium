@@ -3,7 +3,6 @@ error_reporting(E_NONE);
 ini_set('display_errors', '0');
 
 // change the following paths if necessary
-// change the following paths if necessary
 date_default_timezone_set('America/Santiago');
 
 $yii=dirname(__FILE__).'/../../yii/framework/yii.php';
