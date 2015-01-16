@@ -48,10 +48,10 @@ return array(
                
         // uncomment the following to use a MySQL database
         'db'=>array(
-         'connectionString' => 'mysql:host=localhost;dbname=puc_administracion',
+         'connectionString' => 'mysql:host=localhost;dbname=xxxxx',
             'emulatePrepare' => true,
-            'username' => 'root',
-            'password' => 'pass..2014rl',
+            'username' => 'xxxxx',
+            'password' => 'xxxxx',
             'charset' => 'utf8',
         ),
         
